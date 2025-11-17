@@ -181,3 +181,6 @@ The modular structure makes it easy to:
 - Create custom report formats
 - Extend email parsing capabilities
 
+This Example from https://github.com/rf-peixoto/phishing_pot/tree/main/email 
+
+<img width="1470" height="956" alt="Screenshot 2025-11-17 at 2 08 53 PM" src="https://github.com/user-attachments/assets/9b584dd8-361e-40f6-9658-c33d613a0cf9" />
