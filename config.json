@@ -1,0 +1,11 @@
+{
+  "virustotal": {
+    "api_key": "fc974c15d6ad35356583918866ba6f632c372ae3285ca7b4e81a8cb42f02b8d7"
+  },
+  "abuseipdb": {
+    "api_key": "810aba1e4611500f0bf50f3c4f67f2c6fd6d286bf12da5bd55a9c86ca3a3a1fc5d421500f4ef8036"
+  },
+  "mxtoolbox": {
+    "api_key": "619c0ad1-ad04-480b-810c-4a1d94694ec1"
+  }
+}
